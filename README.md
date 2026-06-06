@@ -1,3 +1,4 @@
+```md
 # Hi, I'm Arayik Gharibyan 👋
 
 Senior Embedded Software Engineer from Armenia 🇦🇲
@@ -14,6 +15,27 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 - Developing embedded Linux software for networking hardware
 - Experience with STM32, PIC24, Zephyr RTOS, and Embedded Linux
 - Interested in Linux internals, RTOS architecture, and low-level debugging
+
+---
+
+## 🏅 Open Source Recognition
+
+<table>
+  <tr>
+    <td width="100">
+      <a href="https://www.credly.com/badges/427480db-5b70-4875-8d91-481a9e01422d/public_url">
+        <img src="assets/zephyr-technical-contributor.png" width="85" alt="Zephyr Technical Contributor Badge"/>
+      </a>
+    </td>
+    <td>
+      <strong>Zephyr Technical Contributor</strong><br/>
+      Recognized with a Zephyr Technical Contributor badge for contributions to the Zephyr Project, an open-source RTOS for embedded systems.<br/><br/>
+      <a href="https://www.credly.com/badges/427480db-5b70-4875-8d91-481a9e01422d/public_url">View Badge</a> |
+      <a href="https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3AArGharibyan99">My Zephyr Contributions</a> |
+      <a href="https://www.zephyrproject.org/">Zephyr Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,3 +106,5 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 ## ⚡ Fun Fact
 
 I enjoy debugging problems that happen exactly between hardware and software layers.
+```
+
