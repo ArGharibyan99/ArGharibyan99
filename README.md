@@ -1,4 +1,9 @@
-```md
+
+GitHub is showing it like code because those backticks are in the file.
+
+Use this clean README content instead. Copy the content **without adding ```md** at the top.
+
+:::writing{variant="standard" id="72614"}
 # Hi, I'm Arayik Gharibyan 👋
 
 Senior Embedded Software Engineer from Armenia 🇦🇲
@@ -106,5 +111,9 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 ## ⚡ Fun Fact
 
 I enjoy debugging problems that happen exactly between hardware and software layers.
-```
+:::
 
+Also make sure this image file exists in your repo:
+
+```text
+assets/zephyr-technical-contributor.png
