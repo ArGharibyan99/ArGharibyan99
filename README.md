@@ -106,8 +106,3 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 
 I enjoy debugging problems that happen exactly between hardware and software layers.
 :::
-
-Also make sure this image file exists in your repo:
-
-```text
-assets/zephyr-technical-contributor.png
