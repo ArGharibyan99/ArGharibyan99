@@ -1,9 +1,3 @@
-
-GitHub is showing it like code because those backticks are in the file.
-
-Use this clean README content instead. Copy the content **without adding ```md** at the top.
-
-:::writing{variant="standard" id="72614"}
 # Hi, I'm Arayik Gharibyan 👋
 
 Senior Embedded Software Engineer from Armenia 🇦🇲
