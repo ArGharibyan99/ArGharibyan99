@@ -4,6 +4,8 @@ Senior Embedded Software Engineer from Armenia 🇦🇲
 
 I specialize in embedded Linux systems, RTOS-based firmware, low-level networking software, and hardware/software integration.
 
+I am also a PhD student at the National Polytechnic University of Armenia, focusing on Embedded Systems, Edge AI, and AI-based intelligent computing systems.
+
 ---
 
 ## 🚀 About Me
@@ -13,7 +15,27 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 - Working with ARM Cortex-M and x86_64 platforms
 - Developing embedded Linux software for networking hardware
 - Experience with STM32, PIC24, Zephyr RTOS, and Embedded Linux
+- PhD student at the National Polytechnic University of Armenia
+- Research interests in Embedded Systems, Edge AI, intelligent diagnostics, and resource-constrained AI
 - Interested in Linux internals, RTOS architecture, and low-level debugging
+
+---
+
+## 🎓 Research & PhD
+
+**PhD Student — National Polytechnic University of Armenia**
+
+My research focuses on the intersection of **Embedded Systems and Artificial Intelligence**, with particular interest in:
+
+- Edge AI and TinyML
+- AI-based online diagnostics
+- Resource-constrained AI systems
+- Sensor data processing and sensor fusion
+- Intelligent embedded computing systems
+- Real-time data processing
+- Deployment of AI models on embedded and edge hardware
+
+The goal of my research is to develop practical AI-based computing approaches that can operate directly on resource-constrained embedded hardware and interact with real-world physical systems.
 
 ---
 
@@ -49,6 +71,7 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 ### Embedded & RTOS
 - STM32
 - PIC24
+- ARM Cortex-M
 - Zephyr RTOS
 - Embedded Linux
 
@@ -80,6 +103,7 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 - LVGL
 - Linux Kernel Internals
 - Advanced Embedded Networking
+- Edge AI / TinyML
 
 ---
 
@@ -92,6 +116,8 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 - RTOS Design
 - Performance Optimization
 - Hardware Debugging
+- Edge AI
+- AI on Resource-Constrained Hardware
 
 ---
 
@@ -105,4 +131,3 @@ I specialize in embedded Linux systems, RTOS-based firmware, low-level networkin
 ## ⚡ Fun Fact
 
 I enjoy debugging problems that happen exactly between hardware and software layers.
-:::
